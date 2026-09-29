@@ -1,0 +1,16 @@
+# Engine temp & build
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# IDE files
+*.sln
+.vs/
+.idea/
+.vscode/
+*.DotSettings.user
+
+# Bỏ qua TOÀN BỘ Content
+Content/
